@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Dau d\'apostes</string>
+    <string name="subtitle">Un joc simple:\n                            \t\t - Fletxes: +1/-1 punts.\n                            \t\t - Numeres: +15/-3 punts.</string>
+    <string name="panelNumbers">Tria un numere</string>
+    <string name="points">Punts: %1$s</string>
+    <string name="playAgain">Torna a jugar</string>
+    <string name="gameOverMessage">"               Has pergut tots els teus punts! \n                            Joc acabat\n                    "</string>
+
+</resources>
