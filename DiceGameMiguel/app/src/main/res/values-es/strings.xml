@@ -2,7 +2,7 @@
 <resources>
 
     <string name="title">Dado de Apuestas</string>
-    <string name="subtitle">Un juego sencillo:\n                            \t\t - Flechas: +1/-1 puntos.\n                            \t\t - Numeros: +15/-3 puntos.</string>
+    <string name="subtitle">Un juego sencillo:\n                            \t\t - Flechas: -1/+3 puntos.\n                            \t\t - Numeros: +15/-3 puntos.</string>
     <string name="panelNumbers">Elige un numero</string>
     <string name="points">Puntos: %1$s</string>
     <string name="playAgain">Vuelve a jugar</string>

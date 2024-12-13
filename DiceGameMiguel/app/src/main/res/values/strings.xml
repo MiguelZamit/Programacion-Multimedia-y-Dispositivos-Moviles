@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name" translatable="false">DiceGameMiguel</string>
     <string name="title">Gambling Dice</string>
-    <string name="subtitle">A simple game:\n                            \t\t - Arrows: +1/-1 points.\n                            \t\t - Numbers: +15/-3 points.</string>
+    <string name="subtitle">A simple game:\n                            \t\t - Arrows: -1/+3 points.\n                            \t\t - Numbers: +15/-3 points.</string>
     <string name="panelNumbers">Choose a number</string>
     <string name="points">Points: %1$s</string>
     <string name="playAgain">Play Again</string>
