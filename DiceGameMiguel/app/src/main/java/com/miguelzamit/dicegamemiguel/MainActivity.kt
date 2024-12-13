@@ -334,7 +334,7 @@ fun Component(modifier: Modifier) {
 
             }
 
-
+            // Diablo
             // Para hacer un 5, falta por hacer lo demas y sera ponerle un when para cada una de las caras
             Column(
                 modifier = Modifier
