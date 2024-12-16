@@ -651,7 +651,7 @@ fun Component(modifier: Modifier) {
         ) {
             Column(
                 modifier = Modifier
-                    .background(color = Color(0xE9EE0303))
+                    .background(color = Color(0xEB960B0B))
                     .fillMaxWidth()
                     .border(5.dp, Color(0xB55CFD1D), shape = RoundedCornerShape(13.dp))
                     .padding(8.dp),
@@ -682,7 +682,7 @@ fun Component(modifier: Modifier) {
             Column(
 
                 modifier = Modifier
-                    .background(color = Color(0xE9EE0303))
+                    .background(color = Color(0xEB960B0B))
                     .fillMaxWidth()
                     .border(7.dp, Color(0xB55CFD1D), shape = RoundedCornerShape(13.dp))
                     .padding(10.dp),
