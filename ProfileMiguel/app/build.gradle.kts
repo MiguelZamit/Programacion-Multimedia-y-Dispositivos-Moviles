@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.miguelzamit.profilemiguel"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.miguelzamit.profilemiguel"
