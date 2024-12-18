@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">ClickCounterMiguel</string>
+    <string name="ClickMeButton">CLICK ME</string>
+    <string name="text_nTimes">"You have clicked %1$s times "</string>
+</resources>
